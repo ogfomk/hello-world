@@ -1,6 +1,6 @@
 # hello-world
 
 <br/>Total novice here.
-<br/>Blend haiku with <em>helLo-world</em>. 
+<br/>Blend haiku with <em>hello-world</em>. 
 <br/>Repositoyy!
 
