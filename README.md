@@ -1,2 +1,5 @@
 # hello-world
-Total novice here. Blend Haiku with "hello-world". Repository!
+
+<br/> Total novice here.
+<br/>Blend Haiku with <em>hello-world</em>. 
+<br/>Repository!
